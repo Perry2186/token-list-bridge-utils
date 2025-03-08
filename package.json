@@ -51,7 +51,7 @@
   "dependencies": {
     "@arbitrum/sdk": "^3.1.6",
     "@uniswap/sdk-core": "^4.0.6",
-    "axios": "^0.26.0",
+    "axios": "^1.8.2",
     "dotenv": "^16.0.1",
     "ethers": "^5.6.5",
     "lodash": "^4.17.21",
